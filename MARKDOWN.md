@@ -7,6 +7,10 @@
 A high-performance maintained version of Factions 1.6. It also includes some new features like warps, bans, damage modifiers, and more - which are of course all optional!
 </p>
 
+<p>
+  Please do not PM me, or post here for help! Instead, <a href="https://github.com/redstone/LegacyFactions/wiki">read the wiki</a>, <a href="https://discord.gg/p3VjnUd">jump on discord</a>, or <a href="https://github.com/redstone/LegacyFactions/issues">open an issue</a>.
+</p>
+
 </div>
 
 
